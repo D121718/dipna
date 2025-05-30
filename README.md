@@ -1,2 +1,2 @@
 # dipna
-dipna repo
+dipna repo for git commands demonstration
